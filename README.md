@@ -1,1 +1,1 @@
-# FirstHaskellProjekt
+# FirstHaskellProject
